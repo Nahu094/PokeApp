@@ -1,0 +1,12 @@
+[project]
+version = "0.1.0"
+name = "pokeapp"
+requires-python = ">= 3.8"
+authors = [
+  {name = "Nahuel Falcón"},
+]
+
+dependencies = [
+"requests",
+"dataclasses"
+]
