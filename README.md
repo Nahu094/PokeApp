@@ -28,6 +28,6 @@ Una pequeña app en Python capaz consultar información de Pokémon en **[PokeAP
 Instalación de dependencias:
  ``pip install .``
 
- ###⚠️ Notas
+##⚠️ Notas
 El programa utiliza una API de traduccion no estable asi que puede estar sujeto
 a un repentino malfuncionamiento
